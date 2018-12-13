@@ -1,4 +1,4 @@
-<b>Drone Wars</b>\n
+<b>Drone Wars</b><br />
 Digital Humanities 101<br />
 Professor Ashley Sanders Garcia<br />
 Fall 2018<br /><br />
